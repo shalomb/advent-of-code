@@ -1,0 +1,17 @@
+input.txt
+tmp
+*.tmp
+.cache
+
+# Backup files
+*.bak*
+*.bkp*
+*.svn
+*.tmp*
+*hist
+*~
+.*hist
+.\#*
+.tags
+\#*
+tags
